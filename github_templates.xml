@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><model:MDescriptors xmlns:model="http://www.silabs.com/ss/Studio.ecore">
+  <descriptors label="TEST TEST Platform - BRD4182A EFR32MG22 GPIO EM4 Wakeup" description="This project uses GPIO to wake the device from EM4 mode and thus trigger a reset. Under non-EM4 reset, the device will enter EM4. Pressing PB0 (on EFR32xG21)/ PB1 (on EFR32xG22, EFR32xG23, EFR32xG24, EFR32xG25, EFR32xG27, EFR32xG28) will wake the device from EM4 and ...">
+    <properties key="core.boardCompatibility" value="brd4182a"/>
+    <properties key="core.partCompatibility" value="mcu.arm.efr32.mg22.*"/>
+    <properties key="defaultName" value="BRD4182A_EFR32MG22_gpio_em4_wakeup"/>
+    <properties key="quality" value="Evaluation"/>
+    <properties key="template.category" value="GPIO"/>
+    <properties key="template.initiallyOpenedResource" value="readme.txt"/>
+    <properties key="template.projectFilePaths" value="series2/gpio/gpio_em4_wakeup/SimplicityStudio/BRD4182A_EFR32MG22_gpio_em4_wakeup.slsproj"/>
+  </descriptors>
+</model:MDescriptors>
