@@ -1,6 +1,5 @@
 <workspace name="gpio_em4_wakeup">
-  <project name="EFR32MG21_gpio_em4_wakeup"
-           device="EFR32MG21A010F1024IM32">
+  <project device="EFR32MG21A010F1024IM32" name="EFR32MG21_gpio_em4_wakeup">
     <targets>
       <name>slsproj</name>
       <name>iar</name>
