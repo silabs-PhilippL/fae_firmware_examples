@@ -4,7 +4,7 @@
   <properties key="core.boardCompatibility" value="brd4182a"/>
   <properties key="core.partCompatibility" value="mcu.arm.efr32.mg22.*"/>
   <properties key="defaultName" value="BRD4182A_EFR32MG22_gpio_em4_wakeup"/>
-  <properties key="quality" value="Experimental"/>
+  <properties key="quality" value="Evaluation"/>
   <properties key="template.category" value="GPIO"/>
   <properties key="template.initiallyOpenedResource" value="readme.txt"/>
   <properties key="template.projectFilePaths" value="series2/gpio/gpio_em4_wakeup/SimplicityStudio/BRD4182A_EFR32MG22_gpio_em4_wakeup.slsproj"/>
@@ -13,7 +13,7 @@
   <properties key="core.boardCompatibility" value="brd4204d"/>
   <properties key="core.partCompatibility" value="mcu.arm.efr32.zg23.*"/>
   <properties key="defaultName" value="BRD4204D_TEST"/>
-  <properties key="quality" value="Experimental"/>
+  <properties key="quality" value="Evaluation"/>
   <properties key="template.category" value="GPIO"/>
   <properties key="template.initiallyOpenedResource" value="readme.txt"/>
   <properties key="template.projectFilePaths" value="series2/gpio/gpio_em4_wakeup/SimplicityStudio/BRD4204D_EFR32ZG23_gpio_em4_wakeup.slsproj"/>
